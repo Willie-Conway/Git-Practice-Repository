@@ -1,6 +1,6 @@
 # Git Practice Repository 🚀
 
-![Git](https://tinypic.host/images/2024/11/01/Git-Icon.png)
+<img src="https://tinypic.host/images/2024/11/01/Git-Icon.png" alt="Git" width="300" />
 
 Welcome to my **🔶Git Practice Repository**! This repository is dedicated to learning and experimenting with **🔶Git** and **version control** systems. Here, I will document my progress, practice commands, and explore various features of Git.
 
