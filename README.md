@@ -1,6 +1,6 @@
 # Git Practice Repository 🚀
 
-Welcome to my **🔶Git Practice Repository**! This repository is dedicated to learning and experimenting with **🔶Git** and **`version control`** systems. Here, I will document my progress, practice commands, and explore various features of Git.
+Welcome to my **🔶Git Practice Repository**! This repository is dedicated to learning and experimenting with **🔶Git** and **version control** systems. Here, I will document my progress, practice commands, and explore various features of Git.
 
 ## 📖Table of Contents 
 
